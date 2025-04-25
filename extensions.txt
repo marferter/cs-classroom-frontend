@@ -1,0 +1,10 @@
+Extensions installed on SSH: classroom-dev-server-elastic-ubuntu:
+dbaeumer.vscode-eslint
+editorconfig.editorconfig
+esbenp.prettier-vscode
+github.copilot
+github.copilot-chat
+ms-playwright.playwright
+ms-vsliveshare.vsliveshare
+vitest.explorer
+vue.volar
